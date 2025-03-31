@@ -305,3 +305,8 @@ Generated/error
 
 # DS_Store ignore
 .DS_Store
+*.key
+*.pem
+*.env
+*secret*
+*password*
