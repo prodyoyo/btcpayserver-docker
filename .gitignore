@@ -310,3 +310,5 @@ Generated/error
 *.env
 *secret*
 *password*
+*.conf.bak
+*.conf.original
